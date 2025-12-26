@@ -5,8 +5,8 @@ export default {
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "<your-blog-title>", // 网站标题
-  nickName: "<your-nickname>", // 昵称
+  title: "<wsh是猪的证明>", // 网站标题
+  nickName: "<wsh是猪的证明>", // 昵称
   domain: "https://<your-blog-domain>", // rss域名
   SEO_title: " - <your-blog-title>", // 搜索引擎显示的标题
   SEO_keywords: "<your-keywords>", // keywords meta header
